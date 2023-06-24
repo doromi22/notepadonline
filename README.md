@@ -7,6 +7,8 @@ I managemented my database using phpmyadmin.
 
 Domain of website is https://doromi.art
 
+//
+
 こちらはオンラインにてノートの作成・管理ができるシンプルなアプリ（ウェブサイト）になります。
 
 データベースに接続する為、PHPのmysqliという拡張モジュールを使わせていただきました。
