@@ -13,4 +13,5 @@ Domain of website is https://doromi.art
 
 データベースの管理はphpmyadminで行われる形になります。
 
-ウェブサイトのURLは「https://doromi.art/」になります。
+ウェブサイトのURLは以下の通りです。
+https://doromi.art
