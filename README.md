@@ -3,7 +3,7 @@ This is simple note writing/reading app that works online.
 
 I built this site because moving texts from Mac to Windows is harder than thought.
 
-I used php mysqli to connect database.
+I used php mysqli to connect to database.
 
 I managemented my database using phpmyadmin.
 
